@@ -23,8 +23,7 @@ Other tasks which are often overlooked:
 * Review code on other people’s submissions.
 * Write and improve the project’s documentation.
 * Curate a folder of examples showing how the project is used.
-* Answer questions about the project on, for example, Stack Overflow,
-Keep things organized by:
+- Keep things organized by:
 * Linking to duplicate issues.
 * Suggesting new issue labels.
 * Going through open issues and suggesting closing old ones.
