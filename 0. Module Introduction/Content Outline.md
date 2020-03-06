@@ -27,7 +27,7 @@
 3. Think of connecting the dots by bridging each module/faculty lectures with an introduction lecture at the beginning and a wrap-up lecture at the end to bridge into the next module/faculty/discipline. This again creates extra coherency across the whole course. 
 
 5. Come up with approx. 2-5 learning aims for your chosen module (What should the student have learned after completing this module? Take home message etc.) As a suggestion, go to a first-year course in Osiris and then you'll see the level of aims you have to be thinking about. This link is also very informative: 
-([see https://teaching.uncc.edu/teaching-guides/course-design/writing-measurable-course-objectives]()) 
+([see https://teaching.uncc.edu/teaching-guides/course-design/writing-measurable-course-objectives]() or [https://teachingcenter.wustl.edu/resources/course-design/designing-a-course/]()) 
 
 
 **Just to stress again, it is incredibly important to make sure we have identified the learning aims and topics** before we start to develop the real content. The learning aims are the building blocks, the main motivation of the content. Hence, if that's not properly developed, it is very difficult to create good content. 
